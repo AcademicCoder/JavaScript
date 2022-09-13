@@ -98,3 +98,18 @@ value:
 waa meesha jaangooysa variable kaaga 
 taasi oo macno u yeesha marka value imaado 
 
+
+javascript habab nooce ah ayaan qori karaa
+
+1. waxaad ku dhex qori kartaa html ka dhexdiisa internal javascript ayaa lo yaqaan habkaas  
+2. file gooni ah ayaad u samayn kartaa external javascript ayaa loo yaqaan habkaas 
+
+
+<!-- habkan waxa lagu dhex qoraa html ka dhexdiisa -->
+<script>
+wax kamid ah code ka 
+ </script>
+
+<!-- habkan ayaa isna ah ka external ka ah adoo html ka dhamaadkiisa ayaad ku samayn kartaa kadib file cusub ayaad samaysanaysaa oo javascript ah magacaad doonto ka dhigo  -->
+ <script src="filejavascript.js"> </script>
+
