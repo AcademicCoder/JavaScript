@@ -11,7 +11,7 @@ shaqayn kartaa
 hadaba array shaqadaas ayuu inoo qabanayaa 
 sidoo kale macnayaal kale oo badan ayaa jiri kara 
 insha allah update ka cusub ayaad ku arki doonta 
-qoraalkan dhexdiis 
+qoraalkan dhexdiisa
 hadaba booqo folder ka javascript file kiisa (array.js)
 
 
